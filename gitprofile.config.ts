@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Samuel Cam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Samuel Cam', description: 'Programmer in the making', imageURL: '' },
   social: {
     linkedin: 'samuelcam',
     x: 'makofinanzas',
