@@ -95,10 +95,10 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lenguajes de programación web',
-      body: 'Online Course - EFundae',
+      name: 'Lenguajes de Programación Web',
+      body: 'EFundae',
       year: 'August 2025',
-      link: 'https://www.efundae.es/',
+      link: 'https://www.efundae.es/course/index.php?categoryid=233',
     },
   ],
   educations: [
