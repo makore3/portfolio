@@ -29,24 +29,24 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: '',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'e',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
         {
-          title: 'Project Name',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
       ],
     },
@@ -95,38 +95,38 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Lenguajes de programación web',
+      body: 'Online Course - EFundae',
+      year: 'August 2025',
+      link: 'https://www.efundae.es/',
     },
   ],
   educations: [
     {
       institution: 'IES San Clemente',
-      degree: 'Grado Superior Desarrollo de Aplicaciones Web',
+      degree: 'Grado Superior en Desarrollo de Aplicaciones Web',
       from: '2025',
       to: '2027',
     },
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: '',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: '',
+      authors: '',
+      link: 'm',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        '',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
+      title: '',
+      conferenceName: '',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: '',
+      link: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        '',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
