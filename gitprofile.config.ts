@@ -68,7 +68,7 @@ const CONFIG = {
     medium: '',
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
-    discord: 'makofinanzas',
+    discord: 'makore3',
     telegram: '',
     website: '',
     phone: '',
