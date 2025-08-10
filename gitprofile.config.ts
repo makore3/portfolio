@@ -80,6 +80,8 @@ const CONFIG = {
   },
   skills: [
     'Git',
+    'Github',
+    'Java',
     'JavaScript',
     'CSS',
     'HTML',
