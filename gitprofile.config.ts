@@ -83,9 +83,6 @@ const CONFIG = {
     'SQL',
     'MySQL',
     'Git',
-    'JavaScript',
-    'CSS',
-    'HTML',
   ],
   experiences: [
     {
@@ -159,8 +156,8 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
       'dark',
+      'light',
       'cupcake',
       'bumblebee',
       'emerald',
