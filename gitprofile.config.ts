@@ -54,14 +54,14 @@ const CONFIG = {
   seo: { title: 'Portfolio of Samuel Cam', description: '', imageURL: '' },
   social: {
     linkedin: 'samuelcam',
-    x: 'makofinanzas',
-    mastodon: 'makore3@mastodon.social',
+    x: 'makore3',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: 'makofinanzas', // example: 'pewdiepie'
+    youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
@@ -72,7 +72,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'samuelcam@email.com',
+    email: 'ssd_cam@pm.me',
   },
   resume: {
     fileUrl:
