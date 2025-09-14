@@ -83,6 +83,7 @@ const CONFIG = {
     'SQL',
     'MySQL',
     'Git',
+    'Move',
   ],
   experiences: [
     {
