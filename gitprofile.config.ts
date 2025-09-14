@@ -54,7 +54,7 @@ const CONFIG = {
   seo: { title: 'Portfolio of Samuel Cam', description: '', imageURL: '' },
   social: {
     linkedin: 'samuelcam',
-    x: 'makore3',
+    x: 'makofinanzas',
     mastodon: '',
     researchGate: '',
     facebook: '',
